@@ -1,5 +1,5 @@
 _repo: The-Messiah-of-the-Cylinder_60248
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Coll, Joseph Clement
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '50867'
     url: http://www.gutenberg.org/2009/agents/50867
     wikipedia: https://en.wikipedia.org/wiki/Joseph_Clement_Coll
+covers:
+- cover_type: archival
+  image_path: 60248-h/images/cover.jpg
 creator:
   author:
     agent_name: Rousseau, Victor
@@ -19,6 +22,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/6921
     - https://en.wikipedia.org/wiki/Victor_Rousseau_Emanuel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60248#The-Messiah-of-the-Cylinder
 gutenberg_issued: '2019-09-07'
 gutenberg_type: Text
 identifiers:
